@@ -6,7 +6,7 @@ public class Tent{
     public static void drawPost (Graphics g) {
         g.drawLine(600,405,600,434);
         g.drawLine(599,405,599,435);
-        g.drawLine(601,405,601,433);
+
     }
     public static void drawFlap (Graphics g) {
         Polygon fl1 = new Polygon();

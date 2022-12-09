@@ -33,7 +33,7 @@ public class Moon{
 
     public static void drawStars (Graphics g) {
         Random rand = new Random();
-        for(int k=1; k<=15; k++){
+        for(int k=1; k<=20; k++){
             int x1 = rand.nextInt(230)+400;
             int y1 = rand.nextInt(251)+150;
             g.drawOval(x1,y1,1,1);
