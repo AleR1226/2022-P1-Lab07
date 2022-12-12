@@ -4,6 +4,7 @@ import java.awt.*;
 import java.applet.*;
 
 
+
 public class MoonCamp extends Applet {
 
     public void paint(Graphics g) {
